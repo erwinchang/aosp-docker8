@@ -1,0 +1,6 @@
+tconfig to bypass repo init prompts for identity
+[color]
+	ui = auto
+[user]
+	name = Docker AOSP
+	email = aosp@aosp.docker.local
